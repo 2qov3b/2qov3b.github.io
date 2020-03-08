@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Spectre Pixel Theme</title>
-    <link>https://example.com/posts/</link>
-    <description>Recent content in Posts on Spectre Pixel Theme</description>
+    <title>Posts on Big Fish.</title>
+    <link>https://2qov3b.github.io/posts/</link>
+    <description>Recent content in Posts on Big Fish.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja-jp</language>
     
-	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://2qov3b.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
